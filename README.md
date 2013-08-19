@@ -1,4 +1,4 @@
 bxtools
 =======
 
-bxTools from Boxtech
+bxTools from Boxtech Group
